@@ -1,0 +1,136 @@
+
+.container-lg{
+	width: 95%;
+}
+.column-lg-pd-0{
+	padding-right: 0;
+	padding-left: 0;
+}
+.foto{
+	background: #AAAAAA;
+	height: 200px;
+}
+	.text-foto{
+		text-align: center;
+		padding-top: 13%;
+		font-size: 20px;
+	}
+
+/*---------------------------COL-LG-4---------------------*/
+.video{
+	background: #D6D6D6;
+}
+	.fecha{
+		background: #AAAAAA;
+	}
+	.text-infor a, .text-infor h4, .text-infor p{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+.media-left{
+	vertical-align: middle;
+}
+.img-video{
+	width: 100%;
+	border: 1px solid black;
+}
+/*--------------------------COL-LG-2------------*/
+
+.ul-pd{
+	padding-left: 14px;
+}
+
+
+/*----------------------------------CLASES_GENERALES-----------------------*/
+.bg-navdefault{
+	background: white;
+	border: none;
+	margin-top: 30px;
+}
+.bg-nav-tags{
+	background: #D6D6D6;
+	padding: 3% 2% 0 2%;
+}
+hr{
+	height: 1px;
+	background: #D6D6D6;
+}
+.icon-page{
+	vertical-align: middle;
+}
+.material-icons.md-18 { 
+	font-size: 18px; 
+}
+.lbl-default{
+	border-radius: 0;
+	font-weight: normal;
+}
+.lbl-default-black{
+	background: black;
+}
+a{
+	color: black;
+	font-weight: bold;
+}
+.navbar-header .text-navbrand{
+	font-size: 35px;
+	color: black;
+}
+.collapse .nav li a{
+	color: black;
+}
+.border-frm-control, .border-btndefault{
+	border:1px solid black;
+}
+h4, h3{
+	font-weight: bold;
+}
+/*-------------------UTILITIES----------------*/
+.mg-tb{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.pd-4{
+	padding: 4%;
+}
+.pl-15{
+	padding-left: 15px;
+}
+.pl-20{
+	padding-left: 20px;
+}
+.pl-0{
+	padding-left: 0;
+}
+.mt-15{
+	margin-top: 15px;
+}
+.mt-10{
+	margin-top: 10px;
+}
+.mb-15{
+	margin-bottom: 15px;
+}
+.display-ib{
+	display: inline-block;
+}
+.display-block{
+	display: block;
+}
+.pd-tb-5{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.mb-0{
+	margin-bottom: 0;
+}
+.lista-icon{
+	list-style: none;
+}
+.h4-light{
+	font-weight: normal;
+}
+.hr-footer{
+	height: 5px;
+	background: #444444;
+}
