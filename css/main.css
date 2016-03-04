@@ -16,7 +16,6 @@
 		font-size: 20px;
 	}
 
-/*---------------------------COL-LG-4---------------------*/
 .video{
 	background: #D6D6D6;
 }
@@ -34,14 +33,11 @@
 	width: 100%;
 	border: 1px solid black;
 }
-/*--------------------------COL-LG-2------------*/
 
 .ul-pd{
 	padding-left: 14px;
 }
 
-
-/*----------------------------------CLASES_GENERALES-----------------------*/
 .bg-navdefault{
 	background: white;
 	border: none;
@@ -85,7 +81,6 @@ a{
 h4, h3{
 	font-weight: bold;
 }
-/*-------------------UTILITIES----------------*/
 .mg-tb{
 	margin-top: 20px;
 	margin-bottom: 20px;
